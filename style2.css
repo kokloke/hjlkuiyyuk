@@ -1,0 +1,172 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+@media screen and (max-width:500px){
+    #section1{
+        width: auto;
+        height:80px;
+        background-color: black;
+        background-size: cover;
+    }
+    #section1 h1{
+        color:white;
+        font-style: italic;
+        text-align: center;
+    }
+    #section2{
+        width: auto;
+        height:250px;
+        background-image:url(wallpaper.jpg);
+        background-size: cover;
+    }
+    #section2 h2{
+       color:black;
+        font-style: italic;
+        text-align: center;
+        padding-top: 15px;
+        font-size: 30px;
+    }
+}
+
+#section1{
+    width: auto;
+    height:80px;
+    background-color: black;
+    background-size: cover;
+}
+#section1 h1{
+    color:white;
+    font-style: italic;
+    text-align: center;
+}
+#section2{
+    width: auto;
+    height:250px;
+    background-image:url(wallpaper.jpg);
+    background-size: cover;
+}
+#section2 h2{
+   color:black;
+    font-style: italic;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#section22{
+    width:auto;
+    height:16px;
+    background-color:black;
+}
+
+
+
+#section3{
+    width: auto;
+    height:800px;
+    background-color:rgba(0, 0, 0, 0.836);
+    background-size: cover;
+}
+#section3 h1{
+    color:blanchedalmond;
+    font-style: italic;
+    text-align: center;
+    padding-top: 15px;
+}
+#section3 p{
+    color:blanchedalmond;
+    text-align: center;
+    font-size:18px;
+}
+span {
+    content: "\2666";
+    color:#fd7d1494;
+}
+.button1{
+    float:right;
+}
+
+
+#section5{
+    background-color:black;
+    height: 250px;
+    width:auto;
+}
+#section3 h3{
+    text-align: center;
+    font-size:18px;
+    font-style:italic;
+}
+.info h3{
+    font-style: italic;
+    text-align:center;
+    color:blanchedalmond;
+}
+.number h3{
+    text-decoration: underline;
+    text-align: center;
+
+    color:grey;
+}
+
+.time h3{
+    text-decoration: underline;
+    text-align: center;
+
+    color:grey;
+}
+.street h3{
+    text-decoration: underline;
+    text-align: center;
+
+    color:grey; 
+}
+.number2{
+    text-align: center;
+
+    color:white;
+}
+.time2{
+    text-align: center;
+
+    color:white;
+}
+.street2{
+    text-align: center;
+
+    color:white; 
+}
+
+#section6{
+    background-color:rgba(0, 0, 0, 0.836);
+    padding-top: 30px;
+    width:auto;
+    height:40px;
+}
+
+#section66{
+    background-color:rgba(0, 0, 0, 0.836);
+    width:auto;
+    height:25px;
+}
+#section66 h2{
+    font-style: italic;
+    text-align: center;
+   color: blanchedalmond;
+   
+}
+
+#section7{
+ 
+    background-color: black;
+}
+
+
+#ending{
+    height:50px;
+    width:auto;
+    background-color: black;
+    padding-top: 20px;
+    text-align: center;
+}
